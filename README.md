@@ -17,3 +17,15 @@ SU2020 VE492 Projects
     Question 3: Alpha-Beta Pruning
     Question 4: Expectimax
     Question 5: Evaluation Function
+    
+## Project 3: Reinforcement Learning
+    Question 1: Value Iteration
+    Question 2: Bridge Crossing Analysis
+    Question 3: Policies
+    Question 4: Asynchronous Value Iteration
+    Question 5: Prioritized Sweeping Value Iteration(attached with reference)
+    Question 6: Q-Learning
+    Question 7: Epsilon Greedy
+    Question 8: Bridge Crossing Revisited
+    Question 9: Q-Learning and Pacman
+    Question 10: Approximate Q-Learning
