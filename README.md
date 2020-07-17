@@ -29,3 +29,11 @@ SU2020 VE492 Projects
     Question 8: Bridge Crossing Revisited
     Question 9: Q-Learning and Pacman
     Question 10: Approximate Q-Learning
+
+## Project 4: Constraint Satisfaction Problems (CSPs)
+    Question 1: Recursive Backtracking
+    Question 2: Variable Selection
+    Question 3: Value Ordering
+    Question 4: Forward Checking
+    Question 5: Maintaining Arc Consistency
+    Question 6: Preprocessing
