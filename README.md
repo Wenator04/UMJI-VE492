@@ -37,3 +37,16 @@ SU2020 VE492 Projects
     Question 4: Forward Checking
     Question 5: Maintaining Arc Consistency
     Question 6: Preprocessing
+
+## Project 5: Ghostbusters
+    Question 0: DiscreteDistribution Class
+    Question 1: Observation Probability
+    Question 2: Exact Inference Observation
+    Question 3: Exact Inference with Time Elapse
+    Question 4: Exact Inference Full Test
+    Question 5: Approximate Inference Initialization and Beliefs
+    Question 6: Approximate Inference Observation
+    Question 7: Approximate Inference with Time Elapse
+    Question 8: Joint Particle Filter Observation
+    Question 9: Joint Particle Filter Observation
+    Question 10: Joint Particle Filter Time Elapse and Full Test
